@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-silver_pack"
+description = "Misc collection of nodes. Some are just slightly improved versions of the native ones."
+version = "1.0.0"
+license = { file = "LICENSE.md" }
+
+[project.urls]
+Repository = "https://github.com/GreenLandisaLie/ComfyUI-Silver_Pack"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "greenlandisalie"
+DisplayName = "ComfyUI-Silver_Pack"
+Icon = ""
